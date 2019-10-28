@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.niit.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="9"
+8-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="9" />
+9-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:20:5-81
+11-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:20:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:21:5-80
+12-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:21:22-77
+13
+14    <application
+14-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:7:5-19:19
+15        android:debuggable="true"
+16        android:icon="@drawable/ic_launcher"
+16-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:8:9-45
+17        android:label="@string/app_name" >
+17-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:9:9-41
+18        <activity
+18-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:10:9-18:20
+19            android:name="com.niit.android.FileNotesActivity"
+19-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:11:13-46
+20            android:label="@string/app_name" >
+20-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:12:13-45
+21            <intent-filter>
+21-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:13:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:14:17-69
+22-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:16:17-77
+24-->C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\FileNotes\app\src\main\AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>

@@ -1,0 +1,240 @@
+[
+    {
+        "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Latest\\4. Storages & Permissions\\FileNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 52,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 65,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 65,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 51,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 51,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 59,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 59,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 52,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 52,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 61,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 61,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\FileNotes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 52,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 65,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 65,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 51,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 51,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 59,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 59,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 52,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 52,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 61,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\4. Storages & Permissions\\FileNotes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 61,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]
